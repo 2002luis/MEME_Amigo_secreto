@@ -8,3 +8,13 @@ C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\GamerRadical\o
 C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\GamerRadical\obj\Release\GamerRadical.csproj.CoreCompileInputs.cache
 C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\GamerRadical\obj\Release\GamerRadical.exe
 C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\GamerRadical\obj\Release\GamerRadical.pdb
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\bin\Release\GamerRadical.exe.config
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\bin\Release\GamerRadical.exe
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\bin\Release\GamerRadical.pdb
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.csprojAssemblyReference.cache
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.Form1.resources
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.Properties.Resources.resources
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.csproj.GenerateResource.cache
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.csproj.CoreCompileInputs.cache
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.exe
+C:\Users\luism\OneDrive\Ambiente de Trabalho\Projeto\GamerRadical\MEME_Amigo_secreto\GamerRadical\obj\Release\GamerRadical.pdb
